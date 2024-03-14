@@ -1,2 +1,3 @@
 # Temprature-Converter
-Create Temprature Converter using Html,Css,Javascript
+This is Temperature Converter Website in which you can convert Temperature from celsius to Fahrenheit and vice versa.
+I have used HTML, CSS and Javascript to create this website and also have added a footer wave animation.
